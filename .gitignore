@@ -3,5 +3,6 @@ venv
 .ipynb
 .pyc
 .xml
+.idea
 
 
