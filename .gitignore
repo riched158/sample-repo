@@ -2,5 +2,6 @@ venv
 .vscode
 .ipynb
 .pyc
+.xml
 
 
